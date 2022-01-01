@@ -3,3 +3,5 @@ hello
 Change1
 
 Change2 : changed for commit in master branch.
+
+Change 3 - for rebase by idea branch.
